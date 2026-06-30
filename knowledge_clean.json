@@ -1,0 +1,1597 @@
+[
+    {
+        "name": "PLAYBOOK OF GOVERNMENT SCHEMES AND INITIATIVES FOR STARTUPS",
+        "ministry": "Central Government",
+        "stage": "Multiple stages of growth",
+        "description": "A consolidated reference guide to facilitate awareness and access to Central Government schemes, programmes, initiatives, and support mechanisms for startups across sectors",
+        "eligibility": "Startups across sectors and stages of growth",
+        "benefits": "Access to government schemes, programmes, initiatives, and support mechanisms",
+        "funding": "Not specified",
+        "keywords": [
+            "startups",
+            "government schemes",
+            "initiatives",
+            "support mechanisms"
+        ]
+    },
+    {
+        "name": "Startup India Seed Fund Scheme (SISFS)",
+        "ministry": "Department for Promotion of Industry and Internal Trade",
+        "stage": "Seed/Early Stage",
+        "description": "Provides financial assistance to startups for proof of concept, prototype development, and product testing",
+        "eligibility": "Startups recognized by DPIIT, less than 2 years old, and with a viable business idea",
+        "benefits": "Up to Rs. 50 lakhs for validation of idea, and up to Rs. 2 crores for scale-up",
+        "funding": "Government of India",
+        "keywords": [
+            "Startup India",
+            "Seed Fund",
+            "DPIIT"
+        ]
+    },
+    {
+        "name": "NIDHI-EIR",
+        "ministry": "Department of Science and Technology",
+        "stage": "Idea / PoC Stage",
+        "description": "Grants to start Prototype and beyond: Ready to build",
+        "eligibility": "Student or early-stage researcher / aspiring entrepreneur (not yet a registered startup)",
+        "benefits": "Grants",
+        "funding": "Grant (funding with no repayment)",
+        "keywords": [
+            "Biotech",
+            "Allied",
+            "Quantum",
+            "Technology",
+            "Startup",
+            "Researcher",
+            "Entrepreneur"
+        ]
+    },
+    {
+        "name": "2 \"What Do You Need?\" Index",
+        "ministry": null,
+        "stage": null,
+        "description": "A table to find schemes based on the type of support needed",
+        "eligibility": null,
+        "benefits": null,
+        "funding": null,
+        "keywords": [
+            "Startup-Specific",
+            "Grant",
+            "Equity Investment",
+            "Loan or Credit",
+            "Incubation",
+            "Mentoring",
+            "IP Protection",
+            "Market Access",
+            "Sector-Specific Support"
+        ]
+    },
+    {
+        "name": "NM-ICPS",
+        "ministry": "ESDP",
+        "stage": "0",
+        "description": "Scheme, BHARATI",
+        "eligibility": null,
+        "benefits": null,
+        "funding": null,
+        "keywords": [
+            "SIPP",
+            "GeM Startup Runway",
+            "International Cooperation",
+            "iDEX",
+            "ADITI",
+            "TDF",
+            "Defence",
+            "IN-SPACe Seed Fund",
+            "NQM",
+            "Space",
+            "Quantum",
+            "RKVY",
+            "AgriSURE",
+            "Agri",
+            "DCIS",
+            "Telecom",
+            "DLI",
+            "Chips to Startup",
+            "C2S",
+            "Semiconductor",
+            "BioNEST",
+            "Biotech",
+            "MAHIR",
+            "Energy",
+            "NLM",
+            "Livestock",
+            "SVEP",
+            "Rural"
+        ]
+    },
+    {
+        "name": "NIDHI-EIR",
+        "ministry": null,
+        "stage": "Ideation",
+        "description": null,
+        "eligibility": null,
+        "benefits": null,
+        "funding": null,
+        "keywords": [
+            "Startup",
+            "Ideation",
+            "Prototype",
+            "PoC",
+            "Seed",
+            "Growth",
+            "Scaling",
+            "Market Access",
+            "IP"
+        ]
+    },
+    {
+        "name": "iDEX SPARK",
+        "ministry": "DCIS",
+        "stage": "Startup",
+        "description": "IN-SPACe Seed Fund",
+        "eligibility": "DPIIT-recognised startups",
+        "benefits": "Funding for startups",
+        "funding": "INR (amount not specified)",
+        "keywords": [
+            "startup",
+            "seed fund",
+            "DPIIT"
+        ]
+    },
+    {
+        "name": "Startup India Seed Fund Scheme (SISFS)",
+        "ministry": "Ministry of Commerce & Industry",
+        "stage": "Seed / Early-Stage",
+        "description": "Seed fund disbursed through approved incubators for PoC, prototype, market entry and commercialisation",
+        "eligibility": "DPIIT-recognised early-stage startups with technology-enabled business ideas",
+        "benefits": "Up to \u20b920 lakh (grant); up to \u20b950 lakh (convertible debt)",
+        "funding": "Grant + debt/convertible debt through incubators",
+        "keywords": [
+            "DPIIT",
+            "Startup India",
+            "Seed Fund",
+            "Incubators"
+        ]
+    },
+    {
+        "name": "Fund of Funds for Startups (FFS)",
+        "ministry": "Ministry of Commerce & Industry",
+        "stage": "Growth-stage",
+        "description": "Govt-backed fund-of-funds committing capital to SEBI-registered AIFs which then invest in startups",
+        "eligibility": "SEBI-registered AIFs",
+        "benefits": "Indirect investment in growth-stage startups through supported venture capital funds",
+        "funding": "\u20b910,000 crore",
+        "keywords": [
+            "EQUITY",
+            "VC fund-of-funds",
+            "Startup",
+            "DPIIT"
+        ]
+    },
+    {
+        "name": "Startup India Fund of Funds 2.0",
+        "ministry": "Ministry of Commerce & Industry",
+        "stage": "Scaling",
+        "description": "Follow-on fund-of-funds to deepen domestic venture capital for deep tech, manufacturing and growth-stage startups",
+        "eligibility": "Startups indirectly through SEBI-registered AIFs",
+        "benefits": "Equity investment via AIFs",
+        "funding": "\u20b910,000 crore",
+        "keywords": [
+            "EQUITY",
+            "VC fund-of-funds",
+            "deep tech",
+            "manufacturing",
+            "growth-stage startups"
+        ]
+    },
+    {
+        "name": "Credit Guarantee Scheme for Startups (CGSS)",
+        "ministry": "Ministry of Commerce & Industry",
+        "stage": "Collateral-free debt",
+        "description": "Credit Support Guarantee cover to lenders for collateral-free loans extended to eligible DPIIT-recognised startups",
+        "eligibility": "DPIIT-recognised startups borrowing from eligible banks, NBFCs, AIFs",
+        "benefits": "Credit guarantee cover up to \u20b920 crore per eligible borrower, reduces lender risk",
+        "funding": "Up to \u20b920 crore per eligible borrower",
+        "keywords": [
+            "startup",
+            "credit guarantee",
+            "collateral-free loan",
+            "DPIIT"
+        ]
+    },
+    {
+        "name": "Startups Intellectual Property Protection (SIPP) Scheme",
+        "ministry": "Ministry of Commerce & Industry",
+        "stage": "Any Stage",
+        "description": "Facilitated IPR filing scheme where government pays the facilitator\u2019s professional fee on behalf of startups",
+        "eligibility": "DPIIT-recognised startups filing patents, trademarks or designs in India or abroad",
+        "benefits": [
+            "80% rebate on patent statutory fees",
+            "50% rebate on trademark/design fees",
+            "End-to-end IP facilitation at no charge to startup"
+        ],
+        "funding": "DPIIT / CGPDTM",
+        "keywords": [
+            "IP protection",
+            "MARKET ACCESS"
+        ]
+    },
+    {
+        "name": "GeM Startup Runway",
+        "ministry": "Department of Commerce",
+        "stage": "Any Stage",
+        "description": "Dedicated marketplace window on GeM enabling startups to sell innovative products/services directly to government buyers",
+        "eligibility": "DPIIT-recognised startups. Also open to all startups for listing",
+        "benefits": "Exemption from prior experience, turnover and EMD requirements. Platform for showcasing innovations for public procurement",
+        "funding": null,
+        "keywords": [
+            "MARKET ACCESS",
+            "Government e Marketplace (GeM)",
+            "Government procurement access",
+            "Market access (government procurement)"
+        ]
+    },
+    {
+        "name": "NIDHI \u2013 Seed Support Program (SSP)",
+        "ministry": "Department of Science & Technology (DST)",
+        "stage": "Post-incubation",
+        "description": "Seed support deployed through DST-supported TBIs to help incubated startups bridge prototype to market",
+        "eligibility": "Technology startups incubated in eligible NIDHI/DST-supported TBIs",
+        "benefits": "Seed funding (debt / equity / convertible instruments as per incubator)",
+        "funding": "Up to \u20b91 crore per startup, subject to TBI guidelines",
+        "keywords": [
+            "startup",
+            "finance",
+            "seed funding",
+            "incubation",
+            "technology"
+        ]
+    },
+    {
+        "name": "NIDHI \u2013 PRAYAS 2.0",
+        "ministry": "Department of Science & Technology (DST)",
+        "stage": "Ideation to Prototype",
+        "description": "Prototype grant programme helping innovators convert technology ideas into working prototypes through PRAYAS Centres.",
+        "eligibility": "Individual innovators and early-stage startups with technology-based ideas and prototype plans.",
+        "benefits": "Prototype grant + maker-space / mentoring support",
+        "funding": "Up to \u20b940 lakh through PRAYAS 2.0 calls",
+        "keywords": "GRANT"
+    },
+    {
+        "name": "Research, Development & Innovation (RDI) Scheme",
+        "ministry": "Department of Science & Technology (DST)",
+        "stage": "Long-term",
+        "description": "Deep-Tech Scaling Large RDI financing framework providing long-term, low-cost capital for private-sector research and innovation",
+        "eligibility": "Startups, companies and innovation-led enterprises in strategic/deep-tech sectors",
+        "benefits": "Long-term R&D finance, Long-term financing / loans / equity-like support through designated channels",
+        "funding": "Scheme corpus \u20b91 lakh crore; project-level support varies",
+        "keywords": [
+            "RDI",
+            "Deep-Tech",
+            "Scaling",
+            "Long-term",
+            "Financing",
+            "Innovation"
+        ]
+    },
+    {
+        "name": "National Quantum Mission (NQM)",
+        "ministry": "Department of Science & Technology (DST)",
+        "stage": "Deep-Tech R&D",
+        "description": "National mission offering rolling startup grants through 4 Thematic Hubs",
+        "eligibility": "DPIIT-recognised startups in quantum computing, communication, sensing/metrology and materials/devices",
+        "benefits": "R&D grant + incubation, testbed access and ecosystem mentoring via T-Hubs",
+        "funding": "Up to \u20b925 crore per startup; mission outlay \u20b96,003.65 crore (FY2024\u2013FY2031)",
+        "keywords": [
+            "Quantum Computing",
+            "Communication",
+            "Sensing",
+            "Metrology",
+            "Materials",
+            "Devices",
+            "Startup Grants",
+            "Deep-Tech R&D"
+        ]
+    },
+    {
+        "name": "PRISM",
+        "ministry": "Department of Scientific & Industrial Research (DSIR)",
+        "stage": "Ideation to Prototype",
+        "description": "Supporting individual innovators, startups and MSMEs to develop prototypes and commercialise innovations",
+        "eligibility": "Individual innovators, startups and MSMEs with technology/product innovation ideas",
+        "benefits": "Grant-in-aid / prototype support + mentoring",
+        "funding": "Up to \u20b950 lakh depending on PRISM phase/category",
+        "keywords": [
+            "Innovations",
+            "Startups",
+            "MSMEs",
+            "Grassroots innovation"
+        ]
+    },
+    {
+        "name": "Biotechnology Ignition Grant Scheme (BIG)",
+        "ministry": "Department of Biotechnology (DBT) / BIRAC",
+        "stage": "Ideation to PoC",
+        "description": "Translating innovative biotech ideas into proof-of-concept",
+        "eligibility": "Individual innovators and early biotech startups with commercially promising ideas",
+        "benefits": "Grant-in-aid + mentoring (no equity dilution)",
+        "funding": "Up to \u20b950 lakh for up to 18 months",
+        "keywords": "Biotech, Grant, PoC, BIRAC, DBT"
+    },
+    {
+        "name": "Biotechnology Innovation Fund \u2013 Accelerating Entrepreneurs (AcE)",
+        "ministry": "Department of Biotechnology (DBT) / BIRAC",
+        "stage": "Scaling",
+        "description": "BIRAC equity fund-of-funds to accelerate biotech enterprises through SEBI-registered daughter funds",
+        "eligibility": "High-potential biotech startups and SMEs seeking institutional venture capital",
+        "benefits": "Equity investment via daughter funds (indirect funding)",
+        "funding": "Startup-level investment varies; fund operates through selected AIFs",
+        "keywords": [
+            "Biotech",
+            "Equity",
+            "Startup",
+            "SME",
+            "Venture Capital"
+        ]
+    },
+    {
+        "name": "SEED Fund (SEED)",
+        "ministry": "Department of Biotechnology (DBT) / BIRAC",
+        "stage": "Seed",
+        "description": "Seed Equity/equity-linked seed support deployed through BioNEST incubators for promising biotech startups",
+        "eligibility": "BIRAC/BioNEST-incubated biotech startups needing early commercialisation capital",
+        "benefits": "Up to \u20b930 lakh per startup; incubator corpus typically ~\u20b92 crore",
+        "funding": "Equity/equity-linked instruments",
+        "keywords": [
+            "BIRAC",
+            "BioNEST",
+            "Biotech",
+            "Startups",
+            "Incubator",
+            "SEED Fund",
+            "Seed Investment"
+        ]
+    },
+    {
+        "name": "LEAP Fund",
+        "ministry": "Department of Biotechnology (DBT) / BIRAC",
+        "stage": "Biotech pilots and market launch",
+        "description": "Equity/equity-linked fund for biotech startups ready to pilot or commercialise products",
+        "eligibility": "Biotech startups incubated at selected LEAP/BioNEST fund partners",
+        "benefits": "Equity / equity-linked investment",
+        "funding": "Up to \u20b91 crore per startup",
+        "keywords": [
+            "BIRAC",
+            "BioNEST",
+            "biotech",
+            "startups",
+            "equity"
+        ]
+    },
+    {
+        "name": "SPARSH",
+        "ministry": "Department of Biotechnology (DBT)",
+        "stage": "Ideation to Validation",
+        "description": "Supporting affordable and socially relevant healthcare/biotech product innovations",
+        "eligibility": "Startups and innovators developing affordable products for priority public-health and social needs",
+        "benefits": "Grant + mentoring / social innovation immersion",
+        "funding": "Up to \u20b950 lakh, subject to call guidelines",
+        "keywords": [
+            "affordable",
+            "social-health",
+            "solutions",
+            "social innovation",
+            "biotech",
+            "healthcare"
+        ]
+    },
+    {
+        "name": "AgriSURE",
+        "ministry": "Ministry of Agriculture & Farmers Welfare",
+        "stage": "Category-II AIF",
+        "description": "catalysing equity/debt capital for agri-tech, rural and allied-sector ventures",
+        "eligibility": "Agri-tech startups, rural enterprises, FPO-linked innovations and value-chain ventures in agriculture",
+        "benefits": "Equity up to \u20b925 crore per startup",
+        "funding": "\u20b9750 crore",
+        "keywords": [
+            "agri-tech",
+            "rural enterprises",
+            "equity",
+            "debt",
+            "blended capital",
+            "agriculture"
+        ]
+    },
+    {
+        "name": "Innovation & Agri-Entrepreneurship Program (RKVY)",
+        "ministry": "Ministry of Agriculture & Farmers Welfare",
+        "stage": "Ideation to Seed",
+        "description": "PM-RKVY agri-startup incubation programme supporting pre-seed and seed-stage agripreneurs through R-ABIs",
+        "eligibility": "Agri and allied-sector startups/agripreneurs",
+        "benefits": "Grant-in-aid + incubation / mentoring",
+        "funding": "Up to \u20b95 lakh (pre-seed); up to \u20b925 lakh (seed stage)",
+        "keywords": [
+            "agri-startups",
+            "incubation",
+            "mentoring",
+            "grant"
+        ]
+    },
+    {
+        "name": "SAMRIDH",
+        "ministry": "Ministry of Electronics & Information Technology (MeitY)",
+        "stage": "Accelerator-led product growth",
+        "description": "Enabling accelerators to support promising software/product startups with services and matching funding",
+        "eligibility": "Existing IT/software product startups",
+        "benefits": "Acceleration + matching funding support",
+        "funding": "Up to \u20b940 lakh per startup via selected accelerators",
+        "keywords": [
+            "Startup",
+            "Accelerators",
+            "Product Innovation",
+            "Development",
+            "Growth",
+            "Scaling"
+        ]
+    },
+    {
+        "name": "GENESIS",
+        "ministry": "Ministry of Electronics & Information Technology (MeitY)",
+        "stage": "Ideation to Scaling",
+        "description": "Discovering, supporting and scaling technology startups in Tier-II/III cities via implementing agencies",
+        "eligibility": "Technology startups and entrepreneurs in Tier-II/III locations, including deep-tech ventures",
+        "benefits": "EiR, pilot, investment and deep-tech funding support through implementing agencies",
+        "funding": "\u20b9490 crore",
+        "keywords": [
+            "Startups",
+            "Tier-II/III cities",
+            "Technology",
+            "Deep-tech ventures",
+            "MeitY"
+        ]
+    },
+    {
+        "name": "STPI \u2013 Next Generation Incubation Scheme (NGIS)",
+        "ministry": "Ministry of Electronics & Information Technology (MeitY) / STPI",
+        "stage": "Ideation to Scaling",
+        "description": "Supporting software product startups in selected Tier-II/III locations through incubation and seed support",
+        "eligibility": "Tech/software product startups in identified NGIS cities",
+        "benefits": [
+            "Incubation",
+            "Mentoring",
+            "Cloud credits",
+            "Seed support",
+            "Market access"
+        ],
+        "funding": "\u20b995.03 crore",
+        "keywords": [
+            "STPI",
+            "NGIS",
+            "Software products",
+            "Tier-II/III locations",
+            "Incubation",
+            "Startups"
+        ]
+    },
+    {
+        "name": "Chips to Startup (C2S)",
+        "ministry": "Ministry of Electronics & Information Technology (MeitY)",
+        "stage": "INCUBATION",
+        "description": "R&D to Prototype programme for chip design, VLSI training and development of working silicon prototypes",
+        "eligibility": "Academic institutions, startups/MSMEs and R&D organisations in semiconductor design",
+        "benefits": "Design tools, mentoring, prototyping and project support",
+        "funding": "Support varies under approved C2S project",
+        "keywords": [
+            "semiconductor design",
+            "chip design",
+            "VLSI",
+            "startups",
+            "R&D"
+        ]
+    },
+    {
+        "name": "Innovations for Defence Excellence (iDEX)",
+        "ministry": "Ministry of Defence / Defence Innovation Organisation (DIO)",
+        "stage": "Prototype to Procurement",
+        "description": "Challenge-led defence innovation platform connecting Startups, MSMEs and individual innovators solving defence problem statements",
+        "eligibility": "Defence & aerospace startups/MSMEs with armed forces and defence PSUs",
+        "benefits": "Prototype grant + user mentoring + procurement pathway",
+        "funding": "Up to \u20b910 crore (SPARK grants up to \u20b91.5 crore)",
+        "keywords": [
+            "Defence",
+            "Innovation",
+            "Startups",
+            "MSMEs",
+            "Aerospace"
+        ]
+    },
+    {
+        "name": "ADITI",
+        "ministry": "Ministry of Defence / Defence Innovation Organisation (DIO)",
+        "stage": "Advanced Prototype",
+        "description": "Acing Development of Innovative Technologies with iDEX sub-scheme for critical and strategic defence technologies requiring larger R&D investments",
+        "eligibility": "Startups, MSMEs and innovators developing advanced deep-tech defence technologies",
+        "benefits": "Up to \u20b925 crore grant-in-aid per project, Large R&D grant + user engagement under iDEX framework",
+        "funding": "Up to \u20b925 crore grant-in-aid per project",
+        "keywords": [
+            "Strategic defence",
+            "deep-tech",
+            "iDEX"
+        ]
+    },
+    {
+        "name": "Technology Development Fund (TDF)",
+        "ministry": "Ministry of Defence",
+        "stage": "Prototype to Product",
+        "description": "Supporting indigenous defence technology development by industry, especially MSMEs/startups",
+        "eligibility": "Indian industries, MSMEs and startups developing technologies for DRDO/Services needs",
+        "benefits": "Grant-in-aid / project funding with DRDO mentoring",
+        "funding": "Up to \u20b910 crore per project, generally up to 90% of project cost",
+        "keywords": [
+            "DRDO",
+            "Defence technology development",
+            "MSMEs",
+            "Startups",
+            "Grant"
+        ]
+    },
+    {
+        "name": "IN-SPACe Seed Fund Scheme",
+        "ministry": "Department of Space",
+        "stage": "R&D",
+        "description": "Encouraging startups and NGEs to develop space technologies and applications",
+        "eligibility": "Indian space-tech startups and non-government entities developing space-sector products/applications",
+        "benefits": "Grant-in-aid for R&D / prototype development",
+        "funding": "Up to \u20b91 crore per startup / NGE",
+        "keywords": [
+            "IN-SPACe",
+            "Space-tech",
+            "R&D",
+            "Grant",
+            "Startups",
+            "NGEs"
+        ]
+    },
+    {
+        "name": "Digital Communication Innovation Square (DCIS) Prototyping to Pilot Grant",
+        "ministry": "Department of Telecommunications (DoT)",
+        "stage": "Prototyping to Pilot",
+        "description": "Supporting indigenous telecom and ICT product innovation and commercialisation",
+        "eligibility": "Startups, MSMEs, academia and innovators developing telecom/digital communication solutions",
+        "benefits": "Grant-in-aid + mentoring / testing support",
+        "funding": "Up to \u20b950 lakh per selected proposal",
+        "keywords": [
+            "telecom",
+            "ICT",
+            "innovation",
+            "commercialisation",
+            "startups",
+            "MSMEs",
+            "academia",
+            "innovators"
+        ]
+    },
+    {
+        "name": "GREAT \u2013 Grant for Research & Entrepreneurship across Aspiring Innovators in Technical Textiles",
+        "ministry": "Ministry of Textiles (National Technical Textiles Mission)",
+        "stage": "Prototype to Commercialisation",
+        "description": "Startup grant under National Technical Textiles Mission to convert prototypes into marketable technologies/products",
+        "eligibility": "Individual innovators and startups in technical textiles, associated with approved incubators",
+        "benefits": "Up to \u20b950 lakh for up to 18 months, incubator support",
+        "funding": "Grant-in-aid (no royalty/equity)",
+        "keywords": "Technical textiles, Grant, Startup, Innovators, Incubators"
+    },
+    {
+        "name": "BHARATI",
+        "ministry": "Ministry of Commerce & Industry",
+        "stage": "Pilot cohort",
+        "description": "APEDA export-readiness accelerator for agri-food and agri-tech startups targeting global markets",
+        "eligibility": "Agri-food and agri-tech startups, high-value producers and tech solution providers for exports",
+        "benefits": "Export acceleration, mentoring, compliance and market-access support",
+        "funding": "No fixed grant disclosed",
+        "keywords": [
+            "APEDA",
+            "agri-food",
+            "agri-tech",
+            "startups",
+            "export",
+            "innovation",
+            "market access"
+        ]
+    },
+    {
+        "name": "S&T-PRISM",
+        "ministry": "Ministry of Mines",
+        "stage": "Prototype to Pilot",
+        "description": "Supporting startups and MSMEs developing innovations in mining, mineral processing, metallurgy and recycling",
+        "eligibility": "Early-stage startups in mining and metals industry",
+        "benefits": "Grant / project support + technical mentoring",
+        "funding": "Up to \u20b92 crore per approved project",
+        "keywords": [
+            "mining",
+            "metallurgy",
+            "innovation",
+            "recycling"
+        ]
+    },
+    {
+        "name": "NIDHI \u2013 Entrepreneur in Residence (EIR) Ideation Fellowship",
+        "ministry": "Department of Science & Technology (DST)",
+        "stage": "Pre-startup",
+        "description": "Fellowship letting aspiring entrepreneurs work full-time on technology business ideas before incorporation",
+        "eligibility": "Graduate students and individual innovators with technology-based entrepreneurial ideas",
+        "benefits": "Monthly stipend + mentoring + TBI access",
+        "funding": "\u20b910,000\u2013\u20b930,000 per month for up to 12 months",
+        "keywords": [
+            "entrepreneur",
+            "fellowship",
+            "technology",
+            "startup",
+            "innovation"
+        ]
+    },
+    {
+        "name": "NM-ICPS \u2013 Technology Innovation Hubs",
+        "ministry": "Department of Science & Technology (DST)",
+        "stage": "Prototype to Scaling",
+        "description": "Creating 25 Technology Innovation Hubs for R&D, translational research and startup incubation in CPS technologies",
+        "eligibility": "Deep-tech startups, researchers and innovators in AI, IoT, robotics, cyber security and autonomous systems",
+        "benefits": "Incubation, grants/seed support, testbeds, mentoring and market connects via TIHs",
+        "funding": "\u20b93,660 crore",
+        "keywords": [
+            "CPS",
+            "AI",
+            "IoT",
+            "Robotics",
+            "Cyber Security",
+            "Autonomous Systems",
+            "Deep-tech",
+            "Incubation"
+        ]
+    },
+    {
+        "name": "NIDHI-TBI",
+        "ministry": "Department of Science & Technology (DST)",
+        "stage": "Incubation",
+        "description": "Support for establishing and strengthening technology business incubators for tech startups",
+        "eligibility": "Host institutions/incubators supporting knowledge-based and technology-driven startups",
+        "benefits": "Incubator-level support, grant to incubator + incubation services for startups",
+        "funding": "Multi-crore per DST approval",
+        "keywords": [
+            "Technology",
+            "Business Incubator",
+            "Startups",
+            "Incubation"
+        ]
+    },
+    {
+        "name": "NIDHI-i-TBI",
+        "ministry": "Department of Science & Technology (DST)",
+        "stage": "Incubation",
+        "description": "Creating inclusive technology incubators in underserved institutions/regions",
+        "eligibility": "Underserved regions",
+        "benefits": "Grant to incubator + maker-space/mentoring for startups",
+        "funding": "Up to \u20b95 crore over 3 years",
+        "keywords": [
+            "Inclusive",
+            "Technology",
+            "Business",
+            "Incubator",
+            "Startup",
+            "Incubation"
+        ]
+    },
+    {
+        "name": "NIDHI \u2013 Accelerator",
+        "ministry": "Department of Science & Technology (DST)",
+        "stage": "INCUBATION",
+        "description": "DST-supported accelerator mechanism to help incubated startups rapidly validate markets and scale",
+        "eligibility": "Technology startups selected through supported incubators/accelerators",
+        "benefits": "Structured acceleration, mentoring, investor connects and demo days",
+        "funding": "Up to \u20b940 lakh (\u20b930 lakh to accelerator; \u20b910 lakh to startups)",
+        "keywords": "accelerator, incubation, startups, technology"
+    },
+    {
+        "name": "NIDHI \u2013 Centres of Excellence Scaling (Incubation excellence)",
+        "ministry": "Department of Science & Technology (DST)",
+        "stage": "Mature",
+        "description": "Support for high-performing incubators to become Centres of Excellence and scale deep startup support",
+        "eligibility": "Mature incubators with strong track record",
+        "benefits": "High-impact incubator support, Large incubator grant, infrastructure, seed/scale support and networks",
+        "funding": "Up to \u20b950 crore over 5 years to incubator",
+        "keywords": [
+            "INCUBATION"
+        ]
+    },
+    {
+        "name": "BioAngels",
+        "ministry": "Department of Biotechnology (DBT) / BIRAC",
+        "stage": "Scaling",
+        "description": "Biotech angel investment and investor-connect platform curated for BIRAC-supported life-science startups",
+        "eligibility": "Biotech, medtech, healthtech and life-sciences startups seeking angel capital",
+        "benefits": "Investor connects / angel equity (private investment facilitation)",
+        "funding": "Varies by angel round / investor decision",
+        "keywords": [
+            "Biotech",
+            "angel investment",
+            "life-science startups"
+        ]
+    },
+    {
+        "name": "BioNEST Programme",
+        "ministry": "Department of Biotechnology (DBT)",
+        "stage": "Incubation",
+        "description": "Creating bio-incubators with wet labs, equipment, mentoring and commercialisation support",
+        "eligibility": "Incubators, academic institutions and research parks supporting biotech startups",
+        "benefits": "Bio-incubation infrastructure + startup services",
+        "funding": "Incubator-level grant varies by call",
+        "keywords": "BIRAC, Biotech, Incubation, BioNEST"
+    },
+    {
+        "name": "BIPP \u2013 Biotechnology Industry Partnership Programme",
+        "ministry": "Department of Biotechnology (DBT)",
+        "stage": "Validation to Commercialisation",
+        "description": "BIRAC partnership programme for high-risk, high-impact industry-led biotech innovation",
+        "eligibility": "Biotech companies/startups and academia-industry consortia with transformational R&D proposals",
+        "benefits": "Grant / soft loan / cost-sharing support for high-risk biotech R&D",
+        "funding": "Project-based; varies by approved cost and scheme terms",
+        "keywords": [
+            "BIRAC",
+            "Biotech",
+            "R&D",
+            "Grant",
+            "Partnership Programme"
+        ]
+    },
+    {
+        "name": "E-YUVA",
+        "ministry": "Department of Biotechnology (DBT)",
+        "stage": "Students",
+        "description": "Empowering Youth for Value Added Innovative Translational Research Ideation",
+        "eligibility": "Undergraduate/postgraduate students, fellows and young innovators",
+        "benefits": "Fellowship + innovation grant + mentoring",
+        "funding": "Up to \u20b95 lakh per project",
+        "keywords": [
+            "BIRAC",
+            "biotech innovation",
+            "translational research",
+            "students",
+            "fellowship",
+            "grant"
+        ]
+    },
+    {
+        "name": "SITARE",
+        "ministry": "Department of Biotechnology (DBT) / BIRAC",
+        "stage": "Student",
+        "description": "Student innovation programme encouraging translational biotech ideas and early validation",
+        "eligibility": "Students and young innovators with biotech/life-science innovations",
+        "benefits": "Translational support, mentoring",
+        "funding": "Up to \u20b915 lakh",
+        "keywords": [
+            "biotech",
+            "life-science",
+            "innovation",
+            "translational research",
+            "students",
+            "grant"
+        ]
+    },
+    {
+        "name": "PACE",
+        "ministry": "Department of Biotechnology (DBT)",
+        "stage": "Research Translation",
+        "description": "Helping academic innovations move toward validation and commercial pathways",
+        "eligibility": "Academic researchers, institutions and industry partners",
+        "benefits": "Grant/Partnership support for validation and transnational research",
+        "funding": "Up to \u20b950 lakh - \u20b91 crore",
+        "keywords": [
+            "BIRAC",
+            "Biotech",
+            "Research",
+            "Enterprise",
+            "Academic Innovations"
+        ]
+    },
+    {
+        "name": "SBIRI - Small Business Innovation Research Initiative",
+        "ministry": "Department of Biotechnology (DBT)",
+        "stage": "Early/late-stage",
+        "description": "Public-private partnership scheme supporting biotech product development",
+        "eligibility": "Biotech startups, SMEs and industry-led consortia undertaking innovative R&D",
+        "benefits": "Grant up to \u20b950 lakh; larger support as per call",
+        "funding": "Grant-in-aid / soft loan / cost-sharing support",
+        "keywords": [
+            "BIRAC",
+            "Biotech",
+            "R&D",
+            "Startup",
+            "SME"
+        ]
+    },
+    {
+        "name": "TIDE 2.0",
+        "ministry": "Ministry of Electronics & Information Technology (MeitY)",
+        "stage": "Incubation",
+        "description": "Incubator-led programme supporting ICT startups using emerging technologies for societal challenges",
+        "eligibility": "ICT startups and entrepreneurs working in AI, IoT, blockchain, robotics and emerging technologies",
+        "benefits": "PoC grants up to \u20b97 lakh; larger support varies by centre/component",
+        "funding": "Grant",
+        "keywords": [
+            "ICT",
+            "emerging tech",
+            "incubation",
+            "technical mentoring"
+        ]
+    },
+    {
+        "name": "Design Linked Incentive (DLI) Scheme",
+        "ministry": "Ministry of Electronics & Information Technology (MeitY) / C-DAC",
+        "stage": "Prototype to Commercialisation",
+        "description": "Incentive and infrastructure support scheme for domestic companies, startups and MSMEs engaged in product design-linked incentive",
+        "eligibility": "Semiconductor design companies, startups and MSMEs",
+        "benefits": [
+            "Design infrastructure support",
+            "Reimbursement/deployment-linked incentives of eligible expenditure",
+            "Deployment incentive of 4-6% of net sales (capped at \u20b930 crore)"
+        ],
+        "funding": "Up to 50% of eligible expenditure",
+        "keywords": [
+            "Design Linked Incentive",
+            "DLI",
+            "Semiconductor design",
+            "IC/chipset/SoC/IP-core design"
+        ]
+    },
+    {
+        "name": "Antariksh Venture Capital Fund (Space VCF)",
+        "ministry": "Department of Space",
+        "stage": "Early and growth-stage",
+        "description": "Dedicated venture capital fund for Indian space-tech enterprises across the private space value chain",
+        "eligibility": "Indian space-tech companies/startups",
+        "benefits": "Equity / venture capital investment",
+        "funding": {
+            "targetCorpus": "\u20b91,600 crore",
+            "firstClose": "\u20b91,005 crore"
+        },
+        "keywords": [
+            "IN-SPACe",
+            "Space-tech equity"
+        ]
+    },
+    {
+        "name": "Technology Adoption Fund (TAF)",
+        "ministry": "Department of Space",
+        "stage": "Commercialisation",
+        "description": "Fund moving space technologies from lab validation toward commercialisation and adoption",
+        "eligibility": "Space startups, industry and NGEs advancing space technologies/applications",
+        "benefits": "Grant / funding support for technology development and commercialisation",
+        "funding": "\u20b9500 crore",
+        "keywords": [
+            "IN-SPACe",
+            "Space Technology",
+            "Commercialisation",
+            "Adoption",
+            "Grant"
+        ]
+    },
+    {
+        "name": "Credit Guarantee Trust Fund for Micro & Small Enterprises (CGTMSE)",
+        "ministry": "Ministry of Micro, Small & Medium Enterprises",
+        "stage": "MSMEs, Startups",
+        "description": "Credit Support Guarantee scheme enabling collateral-free loans to micro and small enterprises through member lending institutions",
+        "eligibility": "MSEs, including startup MSMEs, borrowing from eligible banks/NBFCs/FIs",
+        "benefits": "Collateral-free MSME loans, Credit guarantee cover for lender, easier access to debt without collateral",
+        "funding": "Guarantee coverage ceiling up to \u20b910 crore",
+        "keywords": [
+            "Loan",
+            "Credit",
+            "Guarantee",
+            "MSME",
+            "Startup"
+        ]
+    },
+    {
+        "name": "Self-Reliant India Fund (SRI Fund)",
+        "ministry": "Ministry of Micro, Small & Medium Enterprises",
+        "stage": "Growth",
+        "description": "Scaling Fund-of-funds for equity/quasi-equity infusion into growth-oriented MSMEs through daughter funds",
+        "eligibility": "Viable MSMEs and startup MSMEs with growth potential",
+        "benefits": "Equity/quasi-equity infusion",
+        "funding": "\u20b950,000 crore (mother fund: \u20b910,000 crore)",
+        "keywords": [
+            "MSME",
+            "equity",
+            "quasi-equity",
+            "startup",
+            "growth"
+        ]
+    },
+    {
+        "name": "MSME Champions Scheme",
+        "ministry": "Ministry of Micro, Small & Medium Enterprises",
+        "stage": "Competitiveness",
+        "description": "Umbrella MSME scheme including ZED, Lean and Innovative components to improve competitiveness",
+        "eligibility": "MSMEs including startup MSMEs seeking quality, design, IP, lean or digital support",
+        "benefits": "Subsidy / reimbursement / incubation and advisory support",
+        "funding": "Varies under ZED, Lean and Innovative guidelines",
+        "keywords": [
+            "Quality",
+            "Lean",
+            "Innovation",
+            "Digital"
+        ]
+    },
+    {
+        "name": "International Cooperation Scheme Market Access MSME scheme",
+        "ministry": "Ministry of Micro, Small & Medium Enterprises",
+        "stage": "Global",
+        "description": "Supporting participation in international exhibitions, trade fairs and buyer-seller meets",
+        "eligibility": "MSMEs, industry associations and startup MSMEs seeking export/market linkages",
+        "benefits": "Reimbursement/subsidy for travel, stall, registration and event costs",
+        "funding": "Assistance varies by event category and guidelines",
+        "keywords": [
+            "MARKET ACCESS",
+            "MSME",
+            "export",
+            "market linkages",
+            "international exhibitions",
+            "trade fairs",
+            "buyer-seller meets"
+        ]
+    },
+    {
+        "name": "National SC-ST Hub Scheme",
+        "ministry": "Ministry of Micro, Small & Medium Enterprises",
+        "stage": "Capacity Building / Market Access",
+        "description": "Supporting SC/ST entrepreneurs through capacity building, procurement linkages and mentoring",
+        "eligibility": "SC/ST-owned MSMEs and entrepreneurs, including startup MSMEs",
+        "benefits": [
+            "Training",
+            "Market linkages",
+            "Vendor development",
+            "Subsidy support"
+        ],
+        "funding": "Direct grant amount varies",
+        "keywords": [
+            "MSME",
+            "SC/ST",
+            "Market Access",
+            "Capacity Building"
+        ]
+    },
+    {
+        "name": "Atal Tinkering Labs (ATL)",
+        "ministry": "NITI Aayog",
+        "stage": "Ideation (School-level)",
+        "description": "School innovation labs building creativity, design thinking and problem-solving skills among students",
+        "eligibility": "Schools and students",
+        "benefits": [
+            "Lab grant",
+            "equipment",
+            "mentoring",
+            "innovation challenges"
+        ],
+        "funding": "Up to \u20b920 lakh per selected school over multiple years",
+        "keywords": [
+            "innovation",
+            "startup",
+            "school",
+            "creativity"
+        ]
+    },
+    {
+        "name": "Atal Incubation Centres (AICs)",
+        "ministry": "NITI Aayog",
+        "stage": "Incubation",
+        "description": "Supporting world-class incubators across universities, institutions and private hosts",
+        "eligibility": "Host institutions/incubators and startups",
+        "benefits": "Incubation services, grant-in-aid to incubator, mentoring/network for startups",
+        "funding": "Up to \u20b910 crore per incubator",
+        "keywords": [
+            "Atal Innovation Mission (AIM)",
+            "Startup ecosystem infrastructure"
+        ]
+    },
+    {
+        "name": "Atal Community Innovation Centres (ACICs)",
+        "ministry": "NITI Aayog",
+        "stage": "Ideation to Incubation",
+        "description": "Setting up community innovation centres in underserved regions",
+        "eligibility": "Institutions/organisations supporting community innovators and early-stage startups",
+        "benefits": "Grant support to host centres + incubation ecosystem",
+        "funding": "Up to \u20b92.5 crore over prescribed period",
+        "keywords": [
+            "Atal Innovation Mission (AIM)",
+            "Community innovation ecosystems",
+            "Incubation"
+        ]
+    },
+    {
+        "name": "Established Incubation Centres (EICs)",
+        "ministry": "NITI Aayog",
+        "stage": "Scaling",
+        "description": "Incubation support for established incubators to scale startup support capabilities",
+        "eligibility": "Existing incubators and institutions supporting startups",
+        "benefits": "Grant / capacity support to incubator; indirect startup support",
+        "funding": "Up to \u20b910 crore grant; matching private contribution required",
+        "keywords": [
+            "Atal Innovation Mission (AIM)",
+            "Incubation",
+            "Startup Support"
+        ]
+    },
+    {
+        "name": "Agriculture Infrastructure Financing Facility (AIF)",
+        "ministry": "Ministry of Agriculture & Farmers Welfare",
+        "stage": "Medium/long-term",
+        "description": "Scaling post-harvest and community farming assets",
+        "eligibility": [
+            "Farmers",
+            "FPOs",
+            "Agri-entrepreneurs",
+            "Startups",
+            "Cooperatives"
+        ],
+        "benefits": [
+            "Loans up to \u20b92 crore",
+            "3% interest subvention"
+        ],
+        "funding": {
+            "scheme_corpus": "\u20b91 lakh crore"
+        },
+        "keywords": [
+            "Agri infrastructure credit",
+            "Interest subvention",
+            "Credit guarantee"
+        ]
+    },
+    {
+        "name": "Pradhan Mantri Mudra Yojana (PMMY)",
+        "ministry": "Ministry of Finance",
+        "stage": "Micro-enterprise loans",
+        "description": "Credit Support Collateral-free micro-credit programme under Shishu, Kishor and Tarun categories",
+        "eligibility": "Non-corporate, non-farm micro/small enterprises including early-stage businesses and startups",
+        "benefits": "Loans up to \u20b910 lakh; Tarun Plus up to \u20b920 lakh for eligible repeat borrowers",
+        "funding": "Term loan / working capital through banks, MFIs and NBFCs",
+        "keywords": [
+            "LOAN",
+            "CREDIT"
+        ]
+    },
+    {
+        "name": "Stand Up India",
+        "ministry": "Ministry of Finance",
+        "stage": "Credit Support",
+        "description": "Bank loan scheme for greenfield enterprises promoted by SC/ST and/or women entrepreneurs",
+        "eligibility": "At least one SC/ST borrower or one woman borrower per bank branch for greenfield non-farm enterprise",
+        "benefits": "Composite bank loan",
+        "funding": "\u20b910 lakh to \u20b91 crore loan",
+        "keywords": [
+            "SC/ST",
+            "women entrepreneurship",
+            "greenfield enterprises",
+            "bank loan",
+            "credit support"
+        ]
+    },
+    {
+        "name": "PMFME",
+        "ministry": "Ministry of Food Processing Industries",
+        "stage": "Formalisation / Scaling",
+        "description": "Formalising and upgrading micro food-processing enterprises under One District One Product",
+        "eligibility": "Individual micro food-processing units, SHGs, FPOs, cooperatives and food startups/micro-enterprises",
+        "benefits": "Credit-linked subsidy, seed capital for SHGs, branding/marketing and capacity support",
+        "funding": "35% credit-linked subsidy up to \u20b910 lakh per unit; SHG seed capital up to \u20b940,000/member",
+        "keywords": [
+            "Food micro-enterprises",
+            "Credit-linked subsidy",
+            "Seed capital",
+            "Branding/Marketing",
+            "Capacity support"
+        ]
+    },
+    {
+        "name": "IFSCA Fintech Incentive Scheme",
+        "ministry": "International Financial Services Centres Authority (IFSCA)",
+        "stage": "Prototype to Market Entry",
+        "description": "Incentive scheme to attract and support fintechs engaging with the IFSC ecosystem at GIFT City",
+        "eligibility": "Indian and foreign fintech entities, startups and accelerators operating/engaging with GIFT IFSC",
+        "benefits": "Grant / incentive support (Sandbox, PoC, listing, accelerator and special grants)",
+        "funding": "Up to \u20b975 lakh in many grant categories; varies by incentive type",
+        "keywords": [
+            "Fintech",
+            "GIFT IFSC",
+            "IFSCA",
+            "Startup",
+            "Incentive Scheme"
+        ]
+    },
+    {
+        "name": "Technology Development-cum-Incubation Centres",
+        "ministry": "Department of Atomic Energy (DAE)",
+        "stage": "Incubation",
+        "description": "Translating DAE spin-off technologies into market-ready products",
+        "eligibility": "Startups, MSMEs and entrepreneurs licensing/incubating DAE technologies",
+        "benefits": "Technology transfer, lab access, scientist mentoring and incubation",
+        "funding": "No standard grant; support is incubation/technology access based",
+        "keywords": [
+            "DAE",
+            "Incubation",
+            "Technology Commercialisation",
+            "Technology Transfer"
+        ]
+    },
+    {
+        "name": "Start-up Village Entrepreneurship Programme (SVEP)",
+        "ministry": "Ministry of Rural Development",
+        "stage": "Ideation to Enterprise Creation",
+        "description": "Helping rural poor set up local enterprises through community enterprise support",
+        "eligibility": "Rural entrepreneurs from SHG/NRLM ecosystem; relevant for rural startups/micro-enterprises",
+        "benefits": [
+            "Training",
+            "Mentoring",
+            "Community enterprise fund",
+            "Business support"
+        ],
+        "funding": "Up to \u20b96.5 crore per block overall",
+        "keywords": [
+            "Rural livelihoods",
+            "Rural startups",
+            "Micro-enterprises",
+            "Community enterprise support"
+        ]
+    },
+    {
+        "name": "Venture Capital Fund for Scheduled Castes",
+        "ministry": "Ministry of Social Justice & Empowerment",
+        "stage": "Scaling",
+        "description": "Social sector venture fund providing concessionary finance to SC entrepreneurs and companies",
+        "eligibility": "Companies promoted by Scheduled Caste entrepreneurs, including startups/MSMEs",
+        "benefits": "Equity/debt support",
+        "funding": "\u20b910 lakh to \u20b915 crore, subject to fund guidelines",
+        "keywords": [
+            "SC entrepreneurs",
+            "venture capital",
+            "social sector",
+            "equity",
+            "debt"
+        ]
+    },
+    {
+        "name": "STI Hubs for SC/ST Communities",
+        "ministry": "Department of Science & Technology (DST)",
+        "stage": "Incubation / Livelihood Innovation",
+        "description": "Establishing STI hubs for technology-led livelihood and enterprise development in SC/ST communities",
+        "eligibility": "Institutions/NGOs and community enterprises serving SC/ST communities",
+        "benefits": "Inclusive technology deployment, project grants, technology deployment, training and enterprise support",
+        "funding": "Project-based; amount varies by sanctioned STI hub",
+        "keywords": "STI Hubs, SC/ST Communities, Livelihood Innovation, Technology Deployment, Enterprise Development"
+    },
+    {
+        "name": "National Livestock Mission (NLM)",
+        "ministry": "Ministry of Fisheries, Animal Husbandry & Dairying",
+        "stage": "mission",
+        "description": "Promoting entrepreneurship in livestock sectors such as poultry, sheep, goat, piggery and fodder.",
+        "eligibility": "Individuals, FPOs, SHGs, JLGs, Section 8 companies",
+        "benefits": "Capital subsidy routed with loan/project finance depending on project category",
+        "funding": "50% capital subsidy up to \u20b950 lakh",
+        "keywords": [
+            "livestock",
+            "entrepreneurship",
+            "poultry",
+            "sheep",
+            "goat",
+            "piggery",
+            "fodder"
+        ]
+    },
+    {
+        "name": "Mission on Advanced & High Impact Research (MAHIR)",
+        "ministry": "Ministry of Power & Ministry of New & Renewable Energy (MNRE)",
+        "stage": "R&D to Pilot",
+        "description": "Joint mission to identify, develop and demonstrate emerging power-sector technologies indigenously",
+        "eligibility": "Startups, industry, academia and research institutions working on power-sector technologies",
+        "benefits": "Power sector deep-tech R&D project funding, pilot support and commercialisation facilitation",
+        "funding": "Project-based; mission funded through MoP/MNRE/CPSE pooled resources",
+        "keywords": "GRANT, R&D, Power Sector, Deep-tech, Commercialisation"
+    },
+    {
+        "name": "Yuva Sahakar \u2013 Cooperative Enterprise Support & Innovation Scheme",
+        "ministry": "Ministry of Cooperation",
+        "stage": "Credit",
+        "description": "Supporting newly formed innovative cooperative societies and young cooperative entrepreneurs",
+        "eligibility": "Cooperative societies in operation for minimum period as per scheme; youth-led/new cooperatives",
+        "benefits": "Long-term loan + 2% interest subvention",
+        "funding": "Loan up to project norms; often up to \u20b93 crore project cost reference",
+        "keywords": [
+            "Cooperative startups",
+            "Innovation",
+            "NCDC"
+        ]
+    },
+    {
+        "name": "Entrepreneurship & Skill Development Programme (ESDP)",
+        "ministry": "Ministry of Micro, Small & Medium Enterprises",
+        "stage": "Incubation",
+        "description": "Capacity Building MSME training programme building entrepreneurial and managerial skills for prospective entrepreneurs.",
+        "eligibility": "Prospective and existing entrepreneurs, MSMEs, youth and startups needing business skills.",
+        "benefits": "Training cost supported per programme norms",
+        "funding": "No direct startup funding",
+        "keywords": "Entrepreneurship, Skill Development, MSME, Training"
+    },
+    {
+        "name": "Startup India Seed Fund Scheme (SISFS)",
+        "ministry": "Department for Promotion of Industry and Internal Trade (DPIIT)",
+        "stage": "Seed / Early-Stage",
+        "description": "Provides financial assistance to startups for proof of concept, prototype development, product trials, market entry and commercialisation.",
+        "eligibility": "DPIIT recognised startups, Incorporated not more than 2 years ago, Startup must have a business idea to develop a product or a service with market fit, viable commercialisation, and scope of scaling.",
+        "benefits": "Up to \u20b920 lakh as grant for validation of Proof of Concept, or prototype development, or product trials, Up to \u20b950 lakh of investment for market entry, commercialisation, or scaling up through convertible debentures or debt or debt-linked instruments",
+        "funding": "Government funding",
+        "keywords": "Startup India, Seed Fund, Early-Stage"
+    },
+    {
+        "name": "Fund of Funds for Startups (FFS)",
+        "ministry": "Department for Promotion of Industry and Internal Trade (DPIIT)",
+        "stage": "Scaling",
+        "description": "Provides capital to venture funds to invest in startups, helping increase the availability of funding and support the growth of India\u2019s startup ecosystem.",
+        "eligibility": "SEBI-registered AIFs, DPIIT recognised startups",
+        "benefits": "The Scheme has a corpus of \u20b910,000 crore, which is aimed to be provided to startup through AIFs.",
+        "funding": "Government funding",
+        "keywords": "Fund of Funds, Startups, Venture Capital"
+    },
+    {
+        "name": "Startup India Fund of Funds 2.0",
+        "ministry": "Department for Promotion of Industry and Internal Trade (DPIIT)",
+        "stage": "Scaling",
+        "description": "Supports startups by channeling government capital into venture funds to boost investment in emerging businesses, aiming to fuel innovation in priority sectors.",
+        "eligibility": "SEBI-registered AIFs, DPIIT recognised startups",
+        "benefits": "The Scheme has a corpus of \u20b910,000 crore, which is aimed to be provided to startup through AIFs.",
+        "funding": "Government funding",
+        "keywords": "Startup India, Fund of Funds, Scaling"
+    },
+    {
+        "name": "Credit Guarantee Scheme for Startups (CGSS)",
+        "ministry": "Department for Promotion of Industry and Internal Trade (DPIIT)",
+        "stage": "Credit Support",
+        "description": "Helps startups access loans by assuring lenders that the government will cover part of the risk, making it easier for young businesses to get funding without collateral.",
+        "eligibility": "DPIIT recognised startups, Eligible (i) Scheduled Commercial Banks and Financial Institutions; (ii) RBI registered Non-Banking Finance Companies (NBFCs) and (iii) Securities and Exchange Board of India (SEBI) registered Alternative Investment Funds (AIFs)",
+        "benefits": "Maximum guarantee of \u20b920 crore or actual outstanding credit amount, whichever is less.",
+        "funding": "Government guarantee",
+        "keywords": "Credit Guarantee, Startups, Loan"
+    },
+    {
+        "name": "Scheme for Facilitating Startups Intellectual Property Protection (SIPP)",
+        "ministry": "Department for Promotion of Industry and Internal Trade (DPIIT)",
+        "stage": "Any Stage",
+        "description": "Helps startups protect their ideas by providing support and cost relief for filing patents, trademarks, and designs, encouraging innovation and safeguarding ownership.",
+        "eligibility": "DPIIT recognised startups, Applicants must self-declare that they have not availed funds under any other government scheme for paying facilitator/patent agent/trademark agent fees for the same IP application.",
+        "benefits": "Support for filing and processing patent, trademark and design applications, Professional fees of facilitators are paid/reimbursed by the office of CGPDTM; startups generally bear only statutory government fees.",
+        "funding": "Government support",
+        "keywords": "Intellectual Property, Startups, Protection"
+    },
+    {
+        "name": "GeM Startup Runway",
+        "ministry": "Department of Commerce",
+        "stage": "Any Stage",
+        "description": "Enables startups to showcase and sell their innovative products directly to government buyers, helping them access public procurement opportunities and grow their business.",
+        "eligibility": "DPIIT-recognised startups registered as sellers/service providers on GeM, Startups with products/services in existing GeM categories or in dedicated startup sectors",
+        "benefits": "Access to a large base of government buyers across ministries, departments, PSUs and other public entities, Exemption/relaxation from requirements such as prior turnover, prior experience, and Earnest Money Deposit (EMD).",
+        "funding": "No funding",
+        "keywords": "GeM, Startup Runway, Public Procurement"
+    },
+    {
+        "name": "NIDHI \u2013 Seed Support Program (SSP)",
+        "ministry": "Department of Science & Technology (DST)",
+        "stage": "Seed / Post-Incubation",
+        "description": "Provides early-stage funding and support to innovators to help them develop and validate their ideas, encouraging the creation of viable startups.",
+        "eligibility": "Incubatee should be a DPIIT recognised startup with minimum of three months of residency at the STEPs/TBIs.",
+        "benefits": "Under the program, the startups are supported primarily for product development, testing and trials, test marketing, mentoring, professional consultancy.",
+        "funding": "Government funding",
+        "keywords": "NIDHI, Seed Support, Startups"
+    },
+    {
+        "name": "NIDHI \u2013 Promotion and Acceleration of Young and Aspiring Technology Entrepreneurs (PRAYAS) 2.0",
+        "ministry": "Department of Science & Technology (DST)",
+        "stage": "Ideation to Prototype",
+        "description": "Provides early-stage funding and prototyping support to young innovators, helping them turn their technology ideas into working products and viable startups.",
+        "eligibility": "A DPIIT recognised startup or an individual innovator are eligible to apply under the program.",
+        "benefits": "Level 1 \u2013 PCs: Each innovator/startup supported by a Level 1 Centre PC may receive up to \u20b920 Lakhs grant for prototyping, Level 2 \u2013 APCs: Provides prototyping grants of up to \u20b940 lakh per innovator/ startup.",
+        "funding": "Government funding",
+        "keywords": "NIDHI, PRAYAS, Prototyping"
+    },
+    {
+        "name": "Research, Development & Innovation (RDI) Scheme",
+        "ministry": "Department of Science & Technology (DST)",
+        "stage": "Deep-Tech Scaling",
+        "description": "Provides funding and support to help organizations create and improve new technologies or ideas so they can boost innovation, economic growth, and global competitiveness.",
+        "eligibility": "The RDI Fund is provided to Second Level Fund Managers (SLFM) which include Alternative Investment Funds (AIFs), Development Finance Institutions (DFIs), Non-Banking Financial Companies (NBFCs), and Focused Research Organisations (FROs).",
+        "benefits": "Loan \u2013 Debt funding (via loan or optionally convertible debt) from the SLFM, calculated as 50% of the project cost, Equity \u2013 Funding via equity or equity linked instruments from the SLFM, calculated as 50% of the value of each funding round.",
+        "funding": "Government funding",
+        "keywords": "RDI, Research, Development, Innovation"
+    },
+    {
+        "name": "National Quantum Mission (NQM)",
+        "ministry": "Department of Science & Technology (DST)",
+        "stage": "Deep-Tech R&D",
+        "description": "Supports research and development of advanced quantum technologies (like quantum computing and secure communication) so India can build cutting-edge capabilities and stay competitive in future tech.",
+        "eligibility": "Academic institutions, R&D labs, and consortia working in quantum computing, communication, sensing/metrology, and materials/devices, Startups working in quantum technology, preferably DPIIT-registered and Indian-owned/controlled as per startup support guidelines.",
+        "benefits": "Funding and institutional support for quantum R&D, prototypes, product development, and commercialisation through NQM T-Hubs.",
+        "funding": "Government funding",
+        "keywords": "National Quantum Mission, Quantum Technology"
+    },
+    {
+        "name": "Promoting Innovations in Individuals, Start-ups and MSMEs (PRISM)",
+        "ministry": "Department of Science & Technology (DST)",
+        "stage": "Ideation to Prototype",
+        "description": "Provides funding and support to individual innovators, startups, and small businesses so they can turn new ideas into useful products and grow their businesses.",
+        "eligibility": "Public funded institutions or organizations viz. Autonomous Organizations or Society registered under the Societies Registration Act, 1860 or Indian Trusts Act, 1882 engaged in promotion of innovation, Any Indian citizen having an innovative idea and wish to translate their idea into working prototypes/models/processes.",
+        "benefits": "Support of \u20b912 lakh per annum would be given to TOCICs to cover expenses, For innovators: Phase I: Up to \u20b92 lakh or 90% of the approved project cost, Phase II: Up to \u20b950 lakh or 50% of the approved project cost",
+        "funding": "Government funding",
+        "keywords": "PRISM, Innovation, Startups"
+    },
+    {
+        "name": "Biotechnology Ignition Grant Scheme (BIG)",
+        "ministry": "Department of Biotechnology / Biotechnology Industry Research Assistance Council (BIRAC)",
+        "stage": "Early-Stage",
+        "description": "Provides early-stage funding and support to biotech innovators and startups so they can turn promising scientific ideas into viable products and businesses.",
+        "eligibility": "Individual Entrepreneurs and startups, The applicant must be incubated in an incubator (may/may not be supported by BIRAC).",
+        "benefits": "Grant-in-aid of up to \u20b950 lakh provided to startup for a period of up to 18 months, During the BIG tenure, BIRAC extends several networking opportunities to connect with experts, mentors, industry, investors, peer to peer learning, specialized trainings & workshops, exposure to various platforms on merit basis",
+        "funding": "Government funding",
+        "keywords": "Biotechnology, Ignition Grant, Startups"
+    },
+    {
+        "name": "Biotechnology Innovation Fund \u2013 Accelerating Entrepreneurs (AcE)",
+        "ministry": "Department of Biotechnology / Biotechnology Industry Research Assistance Council (BIRAC)",
+        "stage": "Ideation to PoC",
+        "description": "Provides financial support to biotech startups to develop and scale innovative solutions",
+        "eligibility": "SEBI-registered AIFs, startups and SMEs in biotech sector",
+        "benefits": "Up to \u20b930 crore funding, ticket size up to \u20b97 crore",
+        "funding": "Up to \u20b930 crore",
+        "keywords": [
+            "biotech",
+            "startups",
+            "funding"
+        ]
+    },
+    {
+        "name": "BIRAC Incubator SEED Fund (SEED)",
+        "ministry": "Department of Biotechnology / Biotechnology Industry Research Assistance Council (BIRAC)",
+        "stage": "Seed",
+        "description": "Provides early-stage funding to biotech startups through incubators",
+        "eligibility": "Biotech/Med-Tech/Life Sciences startups",
+        "benefits": "Up to \u20b930 lakh funding",
+        "funding": "Up to \u20b930 lakh",
+        "keywords": [
+            "biotech",
+            "startups",
+            "incubation"
+        ]
+    },
+    {
+        "name": "LEAP Fund \u2013 Launching Entrepreneurial Driven Affordable Products",
+        "ministry": "Department of Biotechnology (DBT) / BIRAC",
+        "stage": "Commercialisation",
+        "description": "Supports entrepreneurs in creating affordable, innovative products",
+        "eligibility": "Startups in Biotech/med-tech/life science sectors",
+        "benefits": "Up to \u20b91 crore funding",
+        "funding": "Up to \u20b91 crore",
+        "keywords": [
+            "biotech",
+            "innovation",
+            "affordability"
+        ]
+    },
+    {
+        "name": "SPARSH \u2013 Social Innovation Programme for Products Affordable & Relevant to Social Health",
+        "ministry": "Department of Biotechnology (DBT) / BIRAC",
+        "stage": "Ideation to Validation",
+        "description": "Supports innovators in developing affordable health-related solutions",
+        "eligibility": "Biotechnology Indian startups, LLPs, Indian academic scientists",
+        "benefits": "Up to \u20b950 lakh grant-in-aid",
+        "funding": "Up to \u20b950 lakh",
+        "keywords": [
+            "biotech",
+            "social innovation",
+            "healthcare"
+        ]
+    },
+    {
+        "name": "AgriSURE \u2013 Agri Fund for Startups & Rural Enterprises",
+        "ministry": "Ministry of Agriculture & Farmers Welfare",
+        "stage": "Scaling",
+        "description": "Supports agri-startups and rural enterprises with funding and resources",
+        "eligibility": "Startups working in agriculture and rural development sectors",
+        "benefits": "Up to \u20b925 crore funding",
+        "funding": "Up to \u20b925 crore",
+        "keywords": [
+            "agriculture",
+            "startups",
+            "rural development"
+        ]
+    },
+    {
+        "name": "Innovation & Agri-Entrepreneurship Program (RKVY)",
+        "ministry": "Ministry of Agriculture & Farmers Welfare",
+        "stage": "Ideation to Seed",
+        "description": "Supports agri-startups with funding, mentorship, and incubation",
+        "eligibility": "DPIIT-recognised startups",
+        "benefits": "Up to \u20b925 lakh funding",
+        "funding": "Up to \u20b925 lakh",
+        "keywords": [
+            "agriculture",
+            "startups",
+            "innovation"
+        ]
+    },
+    {
+        "name": "SAMRIDH \u2013 Startup Accelerators of MeitY for Product Innovation, Development & Growth",
+        "ministry": "Ministry of Electronics & Information Technology (MeitY)",
+        "stage": "Scaling",
+        "description": "Supports startups by funding and accelerating innovative tech products",
+        "eligibility": "Accelerators, IT-based startups",
+        "benefits": "Up to \u20b940 lakh funding",
+        "funding": "Up to \u20b940 lakh",
+        "keywords": [
+            "startups",
+            "acceleration",
+            "innovation"
+        ]
+    },
+    {
+        "name": "GENESIS \u2013 Gen-Next Support for Innovative Startups",
+        "ministry": "Ministry of Electronics & Information Technology (MeitY)",
+        "stage": "Ideation to Scaling",
+        "description": "Supports early-stage startups with funding, support, and guidance",
+        "eligibility": "Entities registered under Section 8, Incubators, Accelerators",
+        "benefits": "Up to \u20b91 crore funding",
+        "funding": "Up to \u20b91 crore",
+        "keywords": [
+            "startups",
+            "innovation",
+            "support"
+        ]
+    },
+    {
+        "name": "STPI \u2013 Next Generation Incubation Scheme (NGIS)",
+        "ministry": "Ministry of Electronics & Information Technology (MeitY) / STPI",
+        "stage": "Ideation to Scaling",
+        "description": "Helps nurture early-stage tech startups with incubation support and funding",
+        "eligibility": "Indian startups working on software product development",
+        "benefits": "Up to \u20b925 lakh funding",
+        "funding": "Up to \u20b925 lakh",
+        "keywords": [
+            "startups",
+            "incubation",
+            "software development"
+        ]
+    },
+    {
+        "name": "Chips to Startup (C2S) Programme",
+        "ministry": "Ministry of Electronics and Information Technology (MeitY)",
+        "stage": "R&D to Prototype",
+        "description": "Supports development of semiconductor/chip-design ecosystem",
+        "eligibility": "Academic institutions, R&D organisations, startups, MSMEs",
+        "benefits": "Financial and technical support",
+        "funding": "Varies",
+        "keywords": [
+            "semiconductor",
+            "chip design",
+            "R&D"
+        ]
+    },
+    {
+        "name": "Innovations for Defence Excellence (iDEX)",
+        "ministry": "Ministry of Defence / Defence Innovation Organisation (DIO)",
+        "stage": "Prototype to Procurement",
+        "description": "Supports startups and innovators in building defence solutions",
+        "eligibility": "DPIIT recognised startups, MSMEs, individual innovators",
+        "benefits": "Grants/funding and other support",
+        "funding": "Up to \u20b910 crore",
+        "keywords": [
+            "defence",
+            "innovation",
+            "startups"
+        ]
+    },
+    {
+        "name": "Acing Development of Innovative Technologies with iDEX (ADITI)",
+        "ministry": "Ministry of Defence / Defence Innovation Organisation (DIO)",
+        "stage": "Advanced Prototype",
+        "description": "Supports startups and innovators in building new defence and aerospace technologies",
+        "eligibility": "DPIIT recognised startups, Indian companies, individual innovators",
+        "benefits": "Up to \u20b925 crore funding",
+        "funding": "Up to \u20b925 crore",
+        "keywords": [
+            "defence",
+            "aerospace",
+            "innovation"
+        ]
+    },
+    {
+        "name": "Technology Development Fund (TDF)",
+        "ministry": "DRDO, Ministry of Defence",
+        "stage": "Prototype to Product",
+        "description": "Supports Indian companies and startups in developing defence technologies",
+        "eligibility": "Public limited companies, private limited companies, partnership firms, LLPs",
+        "benefits": "Up to \u20b910 crore funding",
+        "funding": "Up to \u20b910 crore",
+        "keywords": [
+            "defence",
+            "technology development",
+            "funding"
+        ]
+    },
+    {
+        "name": "IN-SPACe Seed Fund Scheme",
+        "ministry": "IN-SPACe, Department of Space",
+        "stage": "Seed",
+        "description": "Supports early-stage space startups with grant funding and mentorship",
+        "eligibility": "DPIIT recognised early-stage startups",
+        "benefits": "Up to \u20b91 crore funding",
+        "funding": "Up to \u20b91 crore",
+        "keywords": [
+            "space",
+            "startups",
+            "seed funding"
+        ]
+    },
+    {
+        "name": "Digital Communication Innovation Square (DCIS)",
+        "ministry": "Department of Telecommunications (DoT)",
+        "stage": "Prototyping to Pilot",
+        "description": "Supports startups and innovators in developing new digital communication technologies",
+        "eligibility": "DPIIT recognised startups, Indian companies, individual innovators",
+        "benefits": "Up to \u20b910 crore funding",
+        "funding": "Up to \u20b910 crore",
+        "keywords": [
+            "digital communication",
+            "innovation",
+            "startups"
+        ]
+    },
+    {
+        "name": "GREAT \u2013 Grant for Research & Entrepreneurship across Aspiring Innovators in Technical Textiles",
+        "ministry": "Ministry of Textiles (National Technical Textiles Mission)",
+        "stage": "Prototype to Commercialisation",
+        "description": "Supports innovators and startups in technical textiles with funding and incubator support",
+        "eligibility": "Individual innovators, startup companies, projects related to technical-textile areas",
+        "benefits": "Up to \u20b950 lakh grant-in-aid",
+        "funding": "Up to \u20b950 lakh",
+        "keywords": [
+            "technical textiles",
+            "innovation",
+            "funding"
+        ]
+    },
+    {
+        "name": "BHARATI \u2013 Bharat\u2019s Hub for Agritech, Resilience, Advancement & Incubation for Export Innovation",
+        "ministry": "APEDA, Ministry of Commerce & Industry",
+        "stage": "Market Access",
+        "description": "Supports agri-food and agritech startups with acceleration support and market access",
+        "eligibility": "Agri-food startups, technology and service startups, solution providers for SPS challenges",
+        "benefits": "Acceleration support, access to APEDA\u2019s ecosystem",
+        "funding": "Varies",
+        "keywords": [
+            "agriculture",
+            "export",
+            "innovation"
+        ]
+    },
+    {
+        "name": "S&T-PRISM \u2013 Promotion of Research & Innovation in Mining, Minerals & Recycling Sector",
+        "ministry": "Ministry of Mines",
+        "stage": "Varies",
+        "description": "Supports early-stage startups in mining, minerals, metals, and recycling with funding and incubation support",
+        "eligibility": "Startups operating at the early stages in the mining and metal industry",
+        "benefits": "Up to \u20b92 crore funding",
+        "funding": "Up to \u20b92 crore",
+        "keywords": [
+            "mining",
+            "minerals",
+            "recycling",
+            "innovation"
+        ]
+    }
+]
