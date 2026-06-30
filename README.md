@@ -130,7 +130,7 @@ This file becomes the permanent knowledge base.
 
 ---
 
-# Phase 2: Question Answering (Online)
+# Phase 2: Question Answering
 
 Whenever a user asks a question:
 
