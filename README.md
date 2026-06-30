@@ -10,9 +10,6 @@ The result is a lightweight, explainable, and cost-efficient architecture.
 
 ---
 
-# Motivation
-
-Government scheme documents are highly structured.
 
 Every scheme generally contains:
 
